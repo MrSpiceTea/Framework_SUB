@@ -21,7 +21,7 @@
     self.view.backgroundColor = [UIColor redColor];
     
     UIView *view = [UIView new];
-    [view setBackgroundColor:[UIColor blackColor]];
+    [view setBackgroundColor:[UIColor redColor]];
     [self.view addSubview:view];
     
     [view setFrame:CGRectMake(200, 200, 200, 200)];
