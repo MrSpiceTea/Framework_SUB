@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "Framework_SUB"
-    s.version      = "1.0"
+    s.version      = "3.0"
     s.ios.deployment_target = '10.0'
     s.summary      = "A delightful setting Framework_SUB."
     s.homepage     = "https://github.com/MrSpiceTea/Framework_SUB.git"
